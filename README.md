@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-<br/>
-
 <h2> 🔗 Contato </h2>
 
 <a href="https://linkedin.com/in/leandro-hd">
