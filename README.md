@@ -40,3 +40,5 @@
 <a href="#">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
+![Snake animation](https://github.com/leandro-hd/leandro-hd/blob/output/github-contribution-grid-snake.svg)
